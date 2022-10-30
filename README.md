@@ -4,7 +4,7 @@
 
 - Use the session hash to persist data across multiple requests
 
-## Introduction
+## Introduction.
 
 In this lab, you'll be building out a blog paywall feature by using the session
 hash to keep track of how many page views a user has made.
